@@ -1,0 +1,64 @@
+.holderr {
+  display: flex;
+  justify-content: center;
+}
+.exp {
+  margin-top: 50px;
+  margin-top: 90px;
+
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+.ex {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  margin-bottom: 400px;
+}
+.div {
+  position: absolute;
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  margin-left: -25px;
+  height: 200px;
+  width: 4px;
+  background-image: linear-gradient(
+    rgb(156, 232, 232),
+    rgb(103, 103, 181),
+    rgb(16, 30, 86)
+  );
+  z-index: -1;
+}
+.radius {
+  position: absolute;
+  margin-top: 303px;
+  margin-left: -25px;
+  height: 40px;
+  width: 40px;
+  background-image: linear-gradient(
+    rgb(16, 30, 86),
+    rgb(103, 103, 181),
+    rgb(156, 232, 232)
+  );
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  color: white;
+  z-index: -1;
+}
+.box {
+  position: absolute;
+  margin-top: 367px;
+  /* height: 40px;
+  width: 190px; */
+  display: flex;
+  justify-content: center;
+  /* border-radius: 4.6px; */
+  margin-right: 11px;
+  z-index: -1;
+  background: -webkit-linear-gradient(aqua, rgb(129, 129, 191));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 46px;
+}

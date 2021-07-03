@@ -1,0 +1,46 @@
+.hol {
+  width: 100vw;
+  height: 600px;
+
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+.yy {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.write2 {
+  margin-top: 40px;
+  /* margin-left: 630px;  */
+  font-size: 20px;
+}
+.hh {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  /* justify-content: space-around; */
+}
+.pho {
+  height: 420px;
+  width: 400px;
+
+  display: flex;
+  margin-right: 590px;
+  margin-top: 20px;
+  box-shadow: black;
+  padding-left: 60px;
+}
+.b {
+  font-size: 27px;
+}
+.rel {
+  font-size: 20px;
+  color: rgb(58, 56, 56);
+}
+.con {
+  margin-top: 20px;
+  margin-right: 120px;
+}

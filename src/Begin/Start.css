@@ -1,0 +1,6 @@
+.only {
+  display: flex;
+  justify-content: center;
+  font-size: 60px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
